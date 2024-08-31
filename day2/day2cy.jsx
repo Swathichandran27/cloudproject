@@ -10,8 +10,6 @@ const Day2cy1=()=>{
         height: '200px',
         padding: '100px',
         border: '1px solid blue',
-       // textAlign: 'center',
-       // lineHeight: '150px'
     };
     return (
       <center> <div style={dstyle}>
