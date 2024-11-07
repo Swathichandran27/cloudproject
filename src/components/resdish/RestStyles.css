@@ -1,0 +1,101 @@
+/* Container for the restaurant list */
+.rest-list-container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #f0f4f8;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header for the restaurant list */
+  .rest-header {
+    text-align: center;
+    font-size: 28px;
+    color: #34495e;
+    margin-bottom: 30px;
+    font-weight: 600;
+  }
+  
+  /* Styling the unordered list */
+  .rest-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Individual restaurant card styling */
+  .rest-card {
+    background-color: #fff;
+    margin-bottom: 25px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Add hover effect to the card */
+  .rest-card:hover {
+    transform: scale(1.03);
+  }
+  
+  /* Content inside the restaurant card */
+  .rest-card-content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  /* Image of the restaurant */
+  .rest-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 3px solid #74b9ff;
+  }
+  
+  /* Restaurant details section */
+  .rest-details {
+    flex-grow: 1;
+  }
+  
+  /* Restaurant name styling */
+  .rest-name {
+    font-size: 22px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Restaurant rating styling */
+  .rest-rating {
+    font-size: 16px;
+    color: #636e72;
+    margin: 5px 0;
+  }
+  
+  /* Restaurant timing styling */
+  .rest-timing {
+    font-size: 16px;
+    color: #636e72;
+    margin: 5px 0;
+  }
+  
+  /* Restaurant address styling */
+  .rest-address {
+    font-size: 16px;
+    color: #636e72;
+    margin: 5px 0;
+  }
+  
+  /* No restaurants message styling */
+  .rest-no-restaurants-message {
+    text-align: center;
+    font-size: 18px;
+    color: #636e72;
+  }
+  

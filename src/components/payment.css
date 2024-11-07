@@ -1,0 +1,78 @@
+.payment-page-container {
+  width: 50%;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.payment-page-container h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 1.6em;
+}
+
+.payment-methods {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.payment-methods button {
+  padding: 10px 20px;
+  background-color: #f44336; /* Primary button color (blue) */
+  color: #fff; /* White text */
+  border: 1px solid #f44336;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.payment-methods button:hover {
+  background-color: #ac3027; /* Darker blue on hover */
+}
+
+.upi-payment-section, 
+.card-payment-section {
+  margin-bottom: 20px;
+}
+
+.upi-payment-section input,
+.card-payment-section input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.payment-total {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.payment-total h3 {
+  font-size: 1.4em;
+  color: #333;
+}
+
+.pay-now-btn {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  background-color: #28a745; /* Green for "Pay Now" button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  text-align: center;
+}
+
+.pay-now-btn:hover {
+  background-color: #218838; /* Darker green on hover */
+}

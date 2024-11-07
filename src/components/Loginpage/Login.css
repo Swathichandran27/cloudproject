@@ -1,0 +1,151 @@
+/*.login{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #00000090;
+    display: grid;
+}
+.lohginpop{
+    place-self: center;
+    width: max(23vw,330px);
+    color: #808080;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 25px 30px;
+    border-radius: 8px;
+    font-size: 14px;
+    animation: fadeIn 0.5s;
+}
+.loginpopup-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+.loginpopup-title img{
+    width: 16px;
+    cursor: pointer;
+}
+.logininput{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+
+}
+.logininput input{
+    outline: none;
+    border: 1px solid #c9c9c9;
+    padding: 10px;
+    border-radius: 4px;
+}
+.lohginpop button{
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: #3290B1;
+    font-size: 15px;
+    cursor: pointer;
+}
+.LoginCondition{
+    display: flex;
+    align-items: start;
+    gap:8px;
+    margin-top: -15px;
+}
+.LoginCondition input{
+    margin-top: 5px;
+}
+.login p span{
+    color: #2a07f5;
+    font-weight: 500;
+    cursor: pointer;
+}*/
+.login {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Slightly dark background for overlay */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginpop {
+    width: max(23vw, 330px);
+    color: #808080;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 25px 30px;
+    border-radius: 8px;
+    font-size: 14px;
+    animation: fadeIn 0.5s; /* Smooth fade-in effect */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.loginpopup-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+
+.loginpopup-title img {
+    width: 20px; /* Adjusted for better visibility */
+    cursor: pointer;
+}
+
+.logininput {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Space between input fields */
+}
+
+.logininput input {
+    outline: none;
+    border: 1px solid #c9c9c9; /* Light border */
+    padding: 10px;
+    border-radius: 4px;
+    transition: border-color 0.3s; /* Smooth transition for focus effect */
+}
+
+.logininput input:focus {
+    border-color: #3290B1; /* Highlight border color on focus */
+}
+
+.loginpop button {
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: #3290B1; /* Primary button color */
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth transition for hover */
+}
+
+.loginpop button:hover {
+    background-color: #25798a; /* Darker shade on hover */
+}
+
+.LoginCondition {
+    display: flex;
+    align-items: center; /* Align checkbox with text */
+    gap: 8px;
+}
+
+.LoginCondition input {
+    margin-top: 5px; /* Align checkbox with text */
+}
+
+.login p span {
+    color: #2a07f5; /* Link color */
+    font-weight: 500; /* Bold text for better visibility */
+    cursor: pointer;
+}

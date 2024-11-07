@@ -1,0 +1,144 @@
+/* Scheduler.css */
+
+.scheduler-page-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.scheduler-heading {
+  font-size: 28px;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.scheduler-subheading {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.schedule-options {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.schedule-options label {
+  font-size: 16px;
+  color: #555;
+  cursor: pointer;
+}
+
+.schedule-options input[type="radio"] {
+  margin-right: 10px;
+}
+
+.single-day-scheduler,
+.recurring-scheduler {
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.recurring-days {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.recurring-days label {
+  margin-right: 10px;
+  font-size: 16px;
+  color: #555;
+}
+
+.recurring-days input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.cart-summary {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.cart-summary ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart-summary ul li {
+  font-size: 16px;
+  color: #333;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.schedule-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.schedule-btn:hover {
+  background-color: #218838;
+}
+
+.scheduled-details {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #e9ffe9;
+  border: 1px solid #d4ffd4;
+  border-radius: 5px;
+}
+
+.scheduled-details p {
+  font-size: 16px;
+  color: #333;
+  margin: 5px 0;
+}
+
+.scheduled-details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.scheduled-details ul li {
+  font-size: 16px;
+  color: #333;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+}
+.confirm-schedule-btn{
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #28a745; /* Green for the button */
+  color: white; /* White text for better contrast */
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s; /* Smooth transition effect */
+}
+
+.confirm-schedule-btn{
+  background-color: #218838; /* Darker green on hover */
+}

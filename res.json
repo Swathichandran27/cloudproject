@@ -1,0 +1,726 @@
+{
+  "res": [
+    {
+      "id": 1,
+      "name": "SS Biriyani",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.Chy0EKNXPRnn1oZ5tmPCTAHaE8&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Chicken Biriyani",
+          "price": "190",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQqGk5ix4dhqujg7OV6L-Z5YEEVVZx9AuQw&s"
+        },
+        {
+          "id": 2,
+          "name": "Veg Biriyani",
+          "price": "180",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://i.pinimg.com/474x/2c/93/29/2c932992defaba7fdc6770eab42c7654.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Beef Biriyani",
+          "price": "180",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/qbfotqlcwc9hz0h8lswz"
+        },
+        {
+          "id": 4,
+          "name": "plain Biriyani",
+          "price": "125",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/uykzxdmkrle6wowje5se"
+        },
+        {
+          "id": 5,
+          "name": "Kushka",
+          "price": "150",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQqGk5ix4dhqujg7OV6L-Z5YEEVVZx9AuQw&s"
+        },
+        {
+          "id": 6,
+          "name": "Prawn Biriyani",
+          "price": "350",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_292,h_300/TopPicks2024/102441951A.png"
+        },
+        {
+          "id": 7,
+          "name": "Chicken 65",
+          "price": "299",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8b7d6fa4c03ea01eac5146bd1df92d4c"
+        },
+        {
+          "id": 8,
+          "name": "Chicken Lollypop",
+          "price": "310",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_292,h_300/TopPicks2024/102441911A.png"
+        },
+        {
+          "id": 9,
+          "name": "Kadai chicken",
+          "price": "340",
+          "description": "Slow-cooked mutton infused with fragrant rice, mint, and Indian spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c11cfc62f993a5bdd3bcb680f1779a8f"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Infinite Dosa",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.M4_Uc4cgf-yjcgPT0m3z0wHaGA&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Panneer Masala Dosa",
+          "price": "163",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/s6n2leqvry4irsv1gqvg"
+        },
+        {
+          "id": 3,
+          "name": "Rava Dosa",
+          "price": "113",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/hf1ovq25yzz9recncc4z"
+        },
+        {
+          "id": 3,
+          "name": "Aappam",
+          "price": "56",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6f358ff7785fd5c720796e7bf6d72bd4"
+        },
+        {
+          "id": 4,
+          "name": "Ghee Dosa",
+          "price": "125",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/w8oez9tic9ymvp5cuexq"
+        },
+        {
+          "id": 5,
+          "name": " Mushroom Masala Dosa",
+          "price": "150",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/zwqbyldftmhanycwe1fm"
+        },
+        {
+          "id": 6,
+          "name": "Butter Uthappam",
+          "price": "$5",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/zuu0mhbqv32co95vujwx"
+        },
+        {
+          "id": 7,
+          "name": " Onion Roast",
+          "price": "163",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7fac795c41200ddf59afbdba4a563b13"
+        },
+        {
+          "id": 8,
+          "name": "Podi Dosa",
+          "price": "119",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/9ce6bca8679c9b73907a418d9d62759c"
+        },
+        {
+          "id": 9,
+          "name": "Ghee Masala Roast",
+          "price": "144",
+          "description": "Thick dosa topped with caramelized onions and served with coconut chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/9ce6bca8679c9b73907a418d9d62759c"
+        },
+        {
+          "id": 10,
+          "name": "Ghee Podi Dosa",
+          "price": "119",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/53935bd1066b2730db42d07990154082"
+        },
+        {
+          "id": 11,
+          "name": "Onion RavaRoast",
+          "price": "144",
+          "description": "Thick dosa topped with caramelized onions and served with coconut chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/90097e29cabc89d007b1c42ef89582f2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.61wMgfwCHQiHWneEjWVdPgHaE8&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Crispy Chicken Bucket",
+          "price": "500",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.Qwi1bDC598Yac3n5Axah6AHaE0&pid=Api&P=0&h=220"
+        },
+        {
+          "id": 2,
+          "name": "Zinger Burger",
+          "price": "250",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/13/9025314a-59fe-467c-9d72-83b5a3c7c2f6_67f0fed4-d987-4e78-8622-f4d15f69ba3f.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Roll Meal Box",
+          "price": "399",
+          "description": "Bite-sized pieces of crispy chicken, perfect for a quick snack.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/17/042acd2b-085f-4400-8b38-397dcb5a0aa1_fc1bae99-1e56-4a60-94d5-574f48e2c50c.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Peri Peri Chicken 5 Leg Piece Meal",
+          "price": "519",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/17/5b8ef1ad-e639-4cc0-b27b-82d1e3eff5d3_f3ba29f9-2f81-4c93-8089-d7c3e1d38bd2.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Classic Chicken Roll",
+          "price": "119",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ebd8e706049e4fd5ca79ecf708f8ecba"
+        },
+        {
+          "id": 6,
+          "name": "Chicken Burger Buddy Meal",
+          "price": "528",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8f9137a6bae94a4d61fcc4fa1c3c15cd"
+        },
+        {
+          "id": 7,
+          "name": "Chicken & French Fries Bucket",
+          "price": "299",
+          "description": "Bite-sized pieces of crispy chicken, perfect for a quick snack.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pasdg6owucvi23hcp9eb"
+        },
+        {
+          "id": 8,
+          "name": "Big 12 Chicken Bucket",
+          "price": "768",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/yqxxwbdxoaconjcyb7ka"
+        },
+        {
+          "id": 9,
+          "name": "Crispy Chicken",
+          "price": "89",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/scl1wyh0yg3saadaakbk"
+        },
+        {
+          "id": 10,
+          "name": "Chicken Popcorn",
+          "price": "248",
+          "description": "Bite-sized pieces of crispy chicken, perfect for a quick snack.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/xwunbsyx5mjosb47pgpi"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dominos",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.EgNNBIdA2VWWC-JENlWMCAHaFF&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Pepperoni Pizza",
+          "price": "199",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/4/29/50c052f5-864f-4d41-b11a-2c36f6929878_6dddc613-f03e-4241-a502-e086b0f14b7b.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Cheese Volcano Peppy Panner",
+          "price": "350",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/4/3ab84285-8164-4447-b534-f371913491c6_f91a0f02-a155-4a2a-8567-ae9d56ec5b2b.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dominator Party for 2 (Non-Veg)",
+          "price": "769",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/31/524f9cd4-1390-4805-996b-f17800529004_4b1eb214-7d4d-46b6-873c-17cebe117543.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Cheese Volcano Veg Paradise",
+          "price": "310",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/4/3e08f33d-98b7-41d2-acca-182da98e80f4_dd0b2e67-2a47-4a5e-b906-63e1277e7fa2.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Cheese Volcano Double Chicken",
+          "price": "399",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/4/a842381d-5d56-4a1e-99b8-4594170ae2c1_6d79c2a4-5aec-4067-acea-0afdfd875830.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Special Party for 2 (Veg)",
+          "price": "359",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fbdef2d7dcfc5374f48cce734867aa30"
+        },
+        {
+          "id": 7,
+          "name": "Meal for 2: Farmhouse & Veg Extravaganza",
+          "price": "699",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/996ed7334940ce4431e6415b9e31779d"
+        },
+        {
+          "id": 8,
+          "name": "Meal for 4: Margherita & Peppy Paneer",
+          "price": "750",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/211f75f7fb418271095f26a3d56caac1"
+        },
+        {
+          "id": 9,
+          "name": "Garlic Breadsticks + Cheesy Dip",
+          "price": "135",
+          "description": "Soft, warm breadsticks seasoned with garlic and herbs, served with a marinara dip.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c74e28521828e6654a5ecffff1de9735"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "CakeBee",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.vmhRfzt2Xb8ym7OdEHZXUwHaHa&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Chocolate Truffle Cake",
+          "price": "670",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/d5e3d4139f342b01aa65fb3ae9aab271"
+        },
+        {
+          "id": 2,
+          "name": "Caramel Delight Cake",
+          "price": "814",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/862ef84d0ee298c4e5772de4ba03211e"
+        },
+        {
+          "id": 1,
+          "name": "Apple Pie",
+          "price": "55",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fa007bddfddb0866d52c080a29472c96"
+        },
+        {
+          "id": 2,
+          "name": "Black Forest Cake",
+
+          "price": "450",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/87cabef005e84d24d3fd45071af3f75f"
+        },
+        {
+          "id": 1,
+          "name": "Caramel Delight Pastry",
+          "price": "397",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a8162fb075af84ae87d1af23c11a19d4"
+        },
+        {
+          "id": 2,
+          "name": "Fresh Cream Pastries ",
+          "price": "63",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/21/8a0a2cca-f948-4791-ac1c-2509edce17ca_f18988ec-0914-45b4-8e34-411c48c39bea.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Red Velvet Pastry",
+          "price": "69",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/21/2f1416a6-1149-4c7e-8d23-fce1c16abac7_d3fdd9a1-81e4-403c-b8b6-96aa64ef313b.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Chai Biscoff Pastry",
+          "price": "150",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/20/06d4584d-a3a8-4ac7-913a-70c377625b07_28c553dc-00bc-47f7-96bb-2a803fe4dd82.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Choco Lava",
+          "price": "64",
+          "description": "Paneer cubes cooked in a rich tomato-based curry with butter and spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/5/20/1ddac485-4141-4ebe-bb79-6a1b525c7ae4_e5e15c3b-0536-4c42-833f-782cc04987a1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "007 Punjabi dhaba",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.PmtDHezVEwPAOQEZyhuhpwHaEK&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Tandoori Chicken",
+          "price": "350",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/idyhd7ioatrioexssjjb"
+        },
+        {
+          "id": 2,
+          "name": "Chicken Malai Tikka",
+          "price": "380",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/kwcgzdrd9oue0kv47h73"
+        },
+        {
+          "id": 1,
+          "name": "Chicken Biriyani",
+          "price": "210",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQqGk5ix4dhqujg7OV6L-Z5YEEVVZx9AuQw&s"
+        },
+        {
+          "id": 2,
+          "name": "Non Veg Sholay Kebab",
+          "price": "450",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/q8uk210gtkpfzh0nivwh"
+        },
+        {
+          "id": 1,
+          "name": "Mutton Kothu Parotta",
+          "price": "320",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/71733b3f20a44e1410eba931ec49d4b2"
+        },
+        {
+          "id": 2,
+          "name": "Pack Beef Biryani(HALF)",
+          "price": "769",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/374b51bb7977ec8fd82c6bfbdd091f53"
+        },
+        {
+          "id": 1,
+          "name": "Schezwan Prawn Noodles",
+          "price": "249",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and a perfect blend of spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/3031542872d17f0fbe354ec4359dcc28"
+        },
+        {
+          "id": 2,
+          "name": "Mutton fried rice",
+          "price": "239",
+          "description": "Delicious vegetable biriyani made with fresh vegetables and fragrant spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a7878b3e859c7506e6e220d8c00bbac4"
+        },
+        {
+          "id": 3,
+          "name": "Schezwan Mutton Noodles",
+          "price": "249",
+          "description": "Slow-cooked mutton infused with fragrant rice, mint, and Indian spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6fa3b7327e86ecaa758ba27f84d143e2"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Happy Endings",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.Wz25BQM6y77bpKg1QJDWOwHaE7&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Cadbury Choco",
+          "price": "225",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/659bb00b-e487-4128-bd91-af4057f84b0e_fa566634-e4a1-4fc9-9be0-7abdfad78adc.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Paan",
+          "price": "225",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/95a9bf40-284d-43bb-b36b-abc03488c72b_03819f4b-af3a-4688-a9ca-b262edf66e58.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Mango Scoop",
+          "price": "180",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/vodtanlc7em8c4uq24ny"
+        },
+        {
+          "id": 2,
+          "name": "Korean Bun",
+          "price": "149",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/dc1b612a-621c-4bfa-bffc-c6db2dbcd253_4eeb86ed-cc7b-444f-92cb-5c8f742eaf3a.jpg"
+        },
+        {
+          "id": 1,
+          "name": "French Fries",
+          "price": "149",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/bfcc28b7-79e3-43ff-af98-616b0d680369_b5d91822-e32f-4462-9e57-c16ef4aedaf2.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Brownie Lava Love",
+          "price": "225",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/f645ee36-0958-4d3e-921a-a09d1a1a0775_e67aabb1-d86c-46b8-a49f-f478b9bb6bf5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Jalapeno Cheesy Pops",
+          "price": "229",
+          "description": "A crispy, golden dosa filled with flavorful potato masala and served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/0e610c90-81d5-4939-82b8-620f29afc580_3615ae74-5617-4c8c-b629-c34e0827742d.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Special Korean Bun",
+          "price": "149",
+          "description": "A traditional South Indian crepe made from fermented rice batter, served with chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/dc1b612a-621c-4bfa-bffc-c6db2dbcd253_4eeb86ed-cc7b-444f-92cb-5c8f742eaf3a.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Peri Peri French Fries",
+          "price": "195",
+          "description": "Thick dosa topped with caramelized onions and served with coconut chutney.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/1/a0b497cf-f819-4b9c-b8fb-3a74701ee2c5_1dad74ec-3a63-4449-9599-7f60d130ccbe.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sree Annapoorna Sweets & Savouries",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.5ntktXMla-PgX7nSa4VobgHaE7&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Mysoorpa Real 250 Grms",
+          "price": "194.05",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/f23b86a7-34ce-48b0-a253-1fd7fd097844_b51f670b-8a8b-48b4-b29d-6dc0baacfd0f.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Barfi Pure Chocolate 250 Grms",
+          "price": "194.05",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/c4f0c7f0-7a3c-4439-9bce-377b571456c5_1a8b5eb6-cd29-4127-bfc5-f71ce3f1d37f.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Sounpapdi 250Grm",
+          "price": "194.05",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/89fb06d4-faf3-44dc-b6d3-74b51a9fa760_4742c0df-da5f-4c00-839f-f70a40cedd36.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Peda Kesar 250 Grms",
+          "price": "194.05",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/e95f6474-f13d-48ac-b357-750f85161c5f_054f8ac8-dd41-406b-a506-c88edd5f0f5c.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Halwa Wheat 250 Grms",
+          "price": "194.05",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/gvqqyxs0vu09svwp6pkn"
+        },
+        {
+          "id": 6,
+          "name": "Modipag 250 Grms",
+          "price": "194.05",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/b14c6b3c-a16b-40e0-b10c-cd58392c6c25_21b121a8-0cdd-418f-b639-6ea937a09e87.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Watermelon Cake 250 Grms",
+          "price": "342",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/14/31bc9dea-93e9-447c-9f7e-dace123a374d_69f195cd-1fc5-4fe7-9567-1c2b44c5a1c9.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Rasamalai Special",
+          "price": "57",
+          "description": "A crunchy fried chicken fillet served in a bun with lettuce, mayonnaise, and a spicy sauce.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/522c3fd7-1d30-44bb-84c0-e9ab15a002ff_47795202-c82f-4bbc-ac51-26811e27149b.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Chandrakala 250 Grms",
+          "price": "194",
+          "description": "Bite-sized pieces of crispy chicken, perfect for a quick snack.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/srzzrhffeq4urp9gkhjc"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "McDonald's",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.zxxERuJQ7keo99DHd8KmxQHaHa&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Chicken Surprise Burger",
+          "price": "76",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/22/0fbf18a1-5191-4cda-a09d-521a24c8c6ca_25cf57c6-48cc-47bd-b422-17e86b816422.png"
+        },
+        {
+          "id": 2,
+          "name": "Chicken Surprise Burger Combo",
+          "price": "209.19",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/22/cb9833dd-5983-4445-bb1b-8d0e70b6c930_8928ae23-ddae-4d9a-abc5-e887d7d7868e.png"
+        },
+        {
+          "id": 3,
+          "name": "Chicken Surprise Burger + 4 Pc Chicken McNuggets + Coke",
+          "price": "249",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/4/6c0288a4-943a-4bb6-a810-b14877c0ea8f_f56187da-4ae4-4a88-b1a5-e48e28d78087.png"
+        },
+        {
+          "id": 4,
+          "name": "Crispy Veggie Burger",
+          "price": "200",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/18/13047bb4-5cdd-47a4-8702-a2310668a643_c71bc9e1-f760-4519-b3c1-e72aa8011839.png"
+        },
+        {
+          "id": 5,
+          "name": "McCrispy Chicken Burger",
+          "price": "224",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/18/aa34f13f-fa73-4ac7-8652-e4badb624ffe_a2ba5c74-e755-4d52-acf0-7bcef7c0886f.png"
+        },
+        {
+          "id": 6,
+          "name": "McVeggie Burger + McAloo Tikki Burger",
+          "price": "199",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/1f4d583548597d41086df0c723560da7"
+        },
+        {
+          "id": 7,
+          "name": "2 Coke",
+          "price": "165",
+          "description": "Classic pepperoni pizza with mozzarella cheese and spicy pepperoni slices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/2d7540e92ac04c0c0823e9f4f029e2dd"
+        },
+        {
+          "id": 8,
+          "name": "2 Soft Serve Hot Fudge (M)",
+          "price": "156",
+          "description": "A veggie-loaded pizza topped with onions, bell peppers, olives, and mushrooms.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f1238db9da73d8ec7a999792f35865d9"
+        },
+        {
+          "id": 9,
+          "name": "2 McFlurry Oreo (S)",
+          "price": "158",
+          "description": "Soft, warm breadsticks seasoned with garlic and herbs, served with a marinara dip.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/65f3574f53112e9d263dfa924b1f8fed"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "HMR Hotel",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.wBu0Xsb774mtzvjhq1C3DgHaE8&pid=Api&P=0&h=220",
+      "menuItems": [
+        {
+          "id": 1,
+          "name": "Parotta",
+          "price": "30",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/m1blq67llwz2n4kdl1z8"
+        },
+        {
+          "id": 2,
+          "name": "Egg Veechu Parotta",
+          "price": "60",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ui3lrqrn6fl0fgkvlifu"
+        },
+        {
+          "id": 3,
+          "name": "Chilli Fish",
+          "price": "240",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/16/242e9643-e7ac-426a-8997-71db9f829c30_71704ced-4599-42a9-962f-784b6e3af5a3.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bun Poratta(1pices)",
+          "price": "45",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/21/f83fbb5a-b45a-4267-8ef3-3324d230ebb7_45792278-5d92-41e1-8050-28beed832a1a.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Chicken Stuffed Paratha",
+          "price": "190",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/10/4e4c3389-f675-4d14-b625-89c54a686833_70dabdbd-7298-4931-88aa-21e1640f5145.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Tandoori Chicken",
+          "price": "160",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/jxs9eljbrvsx5fiqwnt1"
+        },
+        {
+          "id": 7,
+          "name": "Garlic Chicken",
+          "price": "265",
+          "description": "Fragrant rice cooked with fresh coconut and mild spices, served with a tangy pickle.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/q4wdebjsinbtgjwcqk0w"
+        },
+        {
+          "id": 8,
+          "name": "Vegetable Noodles",
+          "price": "180",
+          "description": "A tangy and sweet mango-based curry served with steamed rice.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/rdqen1gfrzr9nylkkkbv"
+        },
+        {
+          "id": 9,
+          "name": "Plate Shawarma",
+          "price": "210",
+          "description": "Paneer cubes cooked in a rich tomato-based curry with butter and spices.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pissktelqskzhz0vaehr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+/* Container for the booking details */
+.booking-details-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .booking-details-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .booking-details-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .booking-details-container ul li {
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+  
+  .booking-details-container ul li ul {
+    margin-top: 10px;
+  }
+  
+  .booking-details-container ul li ul li {
+    margin-bottom: 10px;
+  }
+  
+  .booking-details-container ul li ul li p {
+    margin: 0;
+  }
+  
+  .booking-details-container ul li p {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .booking-details-container ul li p strong {
+    color: #000;
+  }
+  
+  .booking-details-container ul li h4 {
+    font-size: 18px;
+    color: #000;
+  }
+  
+  .booking-details-container ul li p:last-child {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .booking-details-container p {
+    text-align: center;
+    font-size: 16px;
+    color: #888;
+  }
+  
+  /* Image styling */
+  .booking-details-container ul li img {
+    width: 100px; /* Set the width of the image */
+    height: 100px; /* Set the height of the image */
+    object-fit: cover; /* Ensure the image fits within the box without distortion */
+    border-radius: 8px; /* Optional: add some rounded corners */
+    margin-top: 10px;
+  }
+  

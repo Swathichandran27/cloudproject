@@ -1,0 +1,39 @@
+.header{
+    height: 40vw;
+    margin:  0;
+    background: url(C:\Users\chand\fooddelivery\public\h5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    position: relative;
+}
+.header-contents{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap:1.5vw;
+    max-width: 50%;
+    bottom:10%;
+    left: 6vw;
+    animation: fadeIn 3s;
+    padding-bottom: 7%;
+}
+.header-contents h2{
+    font-weight: 500;
+    color: white;
+    font-size: max(4.5vw,22px);
+}
+.header-contents p{
+    color: white;
+    font-size: 20px;
+}
+.header-contents button{
+    border: none;
+    color: #747474;
+    font-weight: 500;
+    padding: 1vw 2.3vw;
+    background-color: white;
+    font-size: max(1vw,15px);
+    border-radius: 50px;
+}

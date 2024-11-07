@@ -1,0 +1,21 @@
+.container {
+  max-width: 1200px; /* Increase width for more cards in a row */
+  padding: 0 20px; /* Add padding around the container */
+  margin: 0 auto;  /* Center the container */
+}
+
+.card {
+  border: 1px solid #e3e3e3;
+  transition: box-shadow 0.3s ease-in-out;
+  margin: 0; /* Remove additional margin */
+}
+
+.card:hover {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  height: 250px; /* Adjust height as needed */
+  object-fit: cover;
+  width: 100%; /* Ensure image fills card width */
+}

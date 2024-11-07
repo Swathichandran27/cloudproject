@@ -1,0 +1,39 @@
+.payment-page-container {
+    padding: 20px;
+  }
+  
+  .address-summary {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .payment-methods {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .payment-method-btn {
+    background-color: #f0f0f0;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .payment-method-btn.selected {
+    background-color: #d62954;
+    color: white;
+  }
+  
+  .pay-now-btn {
+    background-color: #d62954;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  

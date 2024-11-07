@@ -1,0 +1,66 @@
+{
+  "orders": [
+    {
+      "id": "3009",
+      "address": {
+        "name": "Swathi.C",
+        "phoneNumber": "7010962640",
+        "flatNo": "1",
+        "street": "98/156 thekkathaya thootam , K.N.Palayam",
+        "city": "Sathyamangalam",
+        "postalCode": "638503",
+        "landmark": "",
+        "addressType": "Home"
+      },
+      "cartItems": [
+        {
+          "id": 3,
+          "name": "Roll Meal Box",
+          "price": "399",
+          "description": "Bite-sized pieces of crispy chicken, perfect for a quick snack.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/17/042acd2b-085f-4400-8b38-397dcb5a0aa1_fc1bae99-1e56-4a60-94d5-574f48e2c50c.jpg"
+        },
+        {
+          "name": "Veg momos",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/10/d552ea68-482a-431d-8967-0e037ba71dda_bbe40ca5-cb21-4c62-b3b0-48a67924b72a.jpg",
+          "address": "V cafe",
+          "Rating": "4.0",
+          "Timing": "20-30 mins",
+          "Address": "Krishnasamy Road, 9.8km",
+          "description": "Tasty food",
+          "price": "130.0"
+        }
+      ],
+      "totalAmount": 644.29
+    }
+  ],
+  "scheduler": [
+    {
+      "id": "b532",
+      "items": [
+        {
+          "id": 1,
+          "name": "Mysoorpa Real 250 Grms",
+          "price": "194.05",
+          "description": "A bucket of crispy fried chicken pieces with KFC's signature seasoning.",
+          "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/f23b86a7-34ce-48b0-a253-1fd7fd097844_b51f670b-8a8b-48b4-b29d-6dc0baacfd0f.jpg"
+        }
+      ],
+      "scheduleType": "single",
+      "deliveryDate": "2024-10-31T00:30:00.000Z",
+      "deliveryTime": "2024-10-24T06:58:32.339Z",
+      "recurringDays": [],
+      "recurringStartDate": null,
+      "recurringEndDate": null,
+      "recurringTime": null,
+      "address": {
+        "flatNo": "1",
+        "street": "98/156 thekkathaya thootam , K.N.Palayam",
+        "city": "Sathyamangalam",
+        "postalCode": "638503",
+        "phoneNumber": "07010962640"
+      },
+      "paymentMethod": "credit"
+    }
+  ]
+}

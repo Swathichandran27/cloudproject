@@ -1,0 +1,149 @@
+/* Restaurant Details Wrapper */
+.restaurant-details {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(40, 22, 22);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Overall Background Color */
+.color {
+  background-color: #f44336; /* Vibrant orange */
+}
+
+.restaurant-details h1 {
+  text-align: center;
+  color: #fff; 
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.restaurant-details img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.menu-item-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.menu-item-list li {
+  display: flex;
+  justify-content: flex-start; /* Align items horizontally */
+  align-items: center;
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Larger Menu Item Image */
+.menu-item-list li img {
+  width: 200px; /* Increased width for a larger menu item image */
+  height: 150px; /* Increased height */
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+/* Menu Item Details */
+.menu-item-details {
+  flex-grow: 1;
+}
+
+.menu-item-details h3 {
+  margin: 0;
+  color: #333;
+  font-size: 1.4rem;
+}
+
+.menu-item-details p {
+  margin: 10px 0;
+  color: #666;
+  font-size: 1rem;
+}
+
+/* Price Tag Styling */
+.menu-item-price {
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #4caf50;
+}
+
+/* Back Button Styling */
+.back-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 30px;
+}
+
+.back-button:hover {
+  background-color: #45a049;
+}
+
+/* Add to Cart Button Styling */
+.add-to-cart-button {
+  padding: 10px 20px;
+  background-color: #f44336; /* Matches the vibrant orange */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-left: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart-button:hover {
+  background-color: #f44336; /* Darker orange on hover */
+}
+
+/* Adjusting the list items for buttons */
+.menu-item-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item-details {
+  flex-grow: 1;
+  padding-right: 10px; /* Added padding to create space for the button */
+}
+
+.menu-item-price {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #4caf50;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .menu-item-list li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu-item-price, .add-to-cart-button {
+    margin-top: 10px;
+  }
+}
