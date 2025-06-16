@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+/*import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import { useCart } from './CartContext';
@@ -310,4 +310,67 @@ const Scheduler = () => {
   );
 };
 
-export default Scheduler;
+export default Scheduler;*/
+import React, { useState } from 'react';
+
+const LambdaTestScheduler = () => {
+  const [response, setResponse] = useState(null);
+  const [error, setError] = useState(null);
+
+  const handleTestSchedule = async () => {
+    const testData = {
+      deliveryDate: new Date().toISOString(),
+      deliveryTime: new Date().toISOString(),
+      items: [{ id: 1, name: 'Test Item', price: 100 }],
+      address: {
+        flatNo: '101',
+        street: 'Main Street',
+        city: 'Bangalore',
+        postalCode: '560001',
+        phoneNumber: '9999999999',
+      },
+      paymentMethod: 'cash',
+      scheduleType: 'single',
+    };
+
+    try {
+      const res = await fetch('https://vrfd0orcok.execute-api.us-east-2.amazonaws.com/dev', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(testData),
+      });
+
+      const data = await res.json();
+      setResponse(data);
+      setError(null);
+    } catch (err) {
+      setError('Failed to reach Lambda');
+      setResponse(null);
+    }
+  };
+
+  return (
+    <div style={{ padding: '20px' }}>
+      <h2>Test Lambda Schedule API</h2>
+      <button onClick={handleTestSchedule}>Send Test Schedule</button>
+
+      {response && (
+        <div style={{ marginTop: '20px', color: 'green' }}>
+          <h4>Lambda Response:</h4>
+          <pre>{JSON.stringify(response, null, 2)}</pre>
+        </div>
+      )}
+
+      {error && (
+        <div style={{ marginTop: '20px', color: 'red' }}>
+          <h4>Error:</h4>
+          <p>{error}</p>
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default LambdaTestScheduler;
