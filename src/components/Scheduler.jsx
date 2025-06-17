@@ -385,6 +385,7 @@ const Scheduler = () => {
       };
       const response = await fetch('https://po136ctdyf.execute-api.us-east-2.amazonaws.com/dev', {
         method: 'POST',
+        mode:'cors',
         headers: {
           'Content-Type': 'application/json'
         },
